@@ -1,14 +1,14 @@
 # main text of home
-name: Niveditha Ram
-bio: 'Physics, Teaching, Engineering.'
+name: Kinyanjui Wangonya
+bio: 'Web Developer. Photographer. Bibliophile.'
 
 # twitter summary info
-description: A blog about Physics and teaching science
+description: Kinyanjui Wangonya's online space.
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: 'assets/images/profile.jpg'
+picture: 'assets/images/me.jpg'
 
 # url: http://artiannaswamy.com
 # your url: http://USERNAME.github.io
@@ -26,39 +26,39 @@ highlighter: rouge
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: NivedithaRam
+twitter: wang0nya
 # google: mygoogle
 # instagram: myinstagram
 #pinterest: annasw
 #linkedin: artiannaswamy
 # youtube: myyoutube
 # spotify: myspotify
-github: NivedithaRam
+github: wang0nya
 # medium: medium
-email: niveditha.ramasubramanian@stonybrook.edu
+email: kwangonya@gmail.com
 
 authors:
-    NivedithaRam:
-        name: Niveditha Ram
-        bio: Physics, Reading, Teaching.
+    Kinyanjui Wangonya:
+        name: Kinyanjui Wangonya
+        bio: Web Developer. Photographer. Bibliophile.
         external-image: false
-        picture: assets/images/profile.jpg
-        twitter: NivedithaRam
+        picture: assets/images/me.jpg
+        twitter: wang0nya
 
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: large
+width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
-# paginate: 5
-# paginate_path: "blog/:num/"
+ paginate: 5
+ paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-# projects: true
-research: true
-teaching: true
+projects: true
+#research: true
+#teaching: true
 # if you don't need about or blog, comment them out below
 about: true
 blog: true
